@@ -4,7 +4,7 @@
   <option name="IGNORE_SAME_INDENTS_FOR_LANGUAGES" value="true"/>
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="2"/>
+      <option name="INDENT_SIZE" value="4"/>
       <option name="CONTINUATION_INDENT_SIZE" value="4"/>
       <option name="TAB_SIZE" value="2"/>
       <option name="USE_TAB_CHARACTER" value="false"/>
@@ -134,7 +134,7 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="1"/>
     <option name="PARENT_SETTINGS_INSTALLED" value="true"/>
     <indentOptions>
-      <option name="INDENT_SIZE" value="2"/>
+      <option name="INDENT_SIZE" value="4"/>
       <option name="CONTINUATION_INDENT_SIZE" value="4"/>
       <option name="TAB_SIZE" value="2"/>
     </indentOptions>
@@ -180,9 +180,9 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="1"/>
     <option name="PARENT_SETTINGS_INSTALLED" value="true"/>
     <indentOptions>
-      <option name="INDENT_SIZE" value="2"/>
+      <option name="INDENT_SIZE" value="4"/>
       <option name="CONTINUATION_INDENT_SIZE" value="4"/>
-      <option name="TAB_SIZE" value="2"/>
+      <option name="TAB_SIZE" value="4"/>
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
@@ -211,9 +211,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2"/>
+      <option name="INDENT_SIZE" value="4"/>
       <option name="CONTINUATION_INDENT_SIZE" value="4"/>
-      <option name="TAB_SIZE" value="2"/>
-    </indentOptions>
+      <option name="TAB_SIZE" value="4
   </codeStyleSettings>
 </code_scheme>
